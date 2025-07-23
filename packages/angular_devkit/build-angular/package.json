@@ -5,7 +5,7 @@
   "experimental": true,
   "main": "src/index.js",
   "typings": "src/index.d.ts",
-  "builders": "builders.json",
+  "builders": "./builders.json",
   "dependencies": {
     "@angular-devkit/architect": "0.803.29",
     "@angular-devkit/build-optimizer": "0.803.29",
